@@ -1,4 +1,4 @@
-Valorant Tracker
+## Valorant Tracker
 
 Enter Oracle username and password to access a game tracker for Valorant. 
 
